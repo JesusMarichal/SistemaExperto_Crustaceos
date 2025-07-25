@@ -82,9 +82,9 @@ Este proyecto presenta un sistema experto innovador con una red neuronal integra
 ### 👨‍💻 Desarrolladores
 Este proyecto fue desarrollado por:
 
-Jesus Marichal (C.I: 28.344.112)
+Jesus Marichal (C.I.: 28.344.112)
 
-Gabriel Rosas (C.I: 27.650.586)
+Gabriel Rosas (C.I.: 27.650.586)
 
-German (C.I: 30.707.833)
+German (C.I.: 30.707.833)
 
